@@ -1,7 +1,7 @@
 const Discord = require("discord.js");
 const client = new Discord.Client();
 
-const adminprefix = "M";
+const adminprefix = "S";
 const devs = ['489474998298476594', '489474998298476594'];
  
 
